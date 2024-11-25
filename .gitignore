@@ -1,0 +1,81 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+*.egg-info/
+*.egg
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.class
+target/
+*.log
+.idea/
+*.iml
+*.jar
+
+# C/C++
+*.o
+*.out
+*.exe
+*.class
+*.dSYM/
+*.obj
+
+# Ruby
+*.gem
+*.rbc
+*.rvmrc
+*.bundle/
+log/
+tmp/
+db/*.sqlite3
+
+# PHP
+/vendor/
+*.log
+*.cache
+*.tmp
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# JetBrains
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Other
+*.log
+*.pid
+*.seed
+*.pid.lock
+*.sublime-project
+*.sublime-workspace
